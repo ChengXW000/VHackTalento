@@ -1,0 +1,1015 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0467E2962C533B2ADA721175 /* StringScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5ED58DDD0053CD169BD9BBEA /* StringScheme.swift */; };
+		06FBC9F3F90799AEFF210A0B /* CandiDescriptionOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFE2079BA68FBD009384A1AA /* CandiDescriptionOneViewModel.swift */; };
+		0B5E1ADBF6A9D25FCA1F53F8 /* CandiProfileThreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A95895F5710F256D89084BE0 /* CandiProfileThreeViewModel.swift */; };
+		0EFEB52F7707F9BFAD91AFB5 /* VHackUserProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 13EC1AB93B628F07F21FFF47 /* VHackUserProfileViewModel.swift */; };
+		151128715925032E17933382 /* CompanyApply3ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A814B651B1E7608989E79730 /* CompanyApply3ViewModel.swift */; };
+		1D3B4E6F285D0C8B59108C23 /* ChatCandiThreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78535D7422CB3C686C2DB8FA /* ChatCandiThreeViewModel.swift */; };
+		1E80CD3F98114523E94199AF /* CompanyDescriptionTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92FEC72B81FEDDD3DD395A3B /* CompanyDescriptionTwoView.swift */; };
+		2151C31E4B76B0FF17CE0239 /* CompanyApply1ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0BB0B04D38E0972E8E8C14C8 /* CompanyApply1ViewModel.swift */; };
+		21C274713C6EAE45614A5C8B /* SavedCompanyApplyOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 28A961E6B024BCD36A88043E /* SavedCompanyApplyOneView.swift */; };
+		228A12707D21DB4C2913881E /* SavedCandiDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68642F4BD45B9578AA559847 /* SavedCandiDescriptionView.swift */; };
+		2349353E5BE873CD194C34D9 /* VHackSavedCandiPageOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAE5B3B102F613B415F87793 /* VHackSavedCandiPageOneViewModel.swift */; };
+		24F1F9FB528299F123AD1D29 /* VideoUploadView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51B9E29D30037AC92D6C3D6A /* VideoUploadView.swift */; };
+		29A12C0DF7638B90737FA582 /* VHackHomeCandiPageOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0978A1AEE0EBE2DFB243C396 /* VHackHomeCandiPageOneView.swift */; };
+		2CF4009CA17B5EA1B55ED995 /* CompanySavedProfileOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E472196F728C3BC264541AEF /* CompanySavedProfileOneView.swift */; };
+		3C3F8C1F795187C966C74CEE /* InterSemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F831CA366F2E402B2EC2056 /* InterSemiBold.ttf */; };
+		475EAB4CEB2565BE1CCEB267 /* CompanyApplyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63F17C2B96CA7B5152DD02A2 /* CompanyApplyView.swift */; };
+		48C3FFAB4C21D922A56EBA31 /* VHackHomeCompaPageOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021E35DE453683C6C21F216E /* VHackHomeCompaPageOneView.swift */; };
+		4D1DC32FE2155C2D2185E679 /* CompanyDescriptionOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 462362B4958CAA386A255D22 /* CompanyDescriptionOneView.swift */; };
+		4E2526A9CCCB84C43B9A6E7C /* CompanySavedDescriptionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 821FA6D07AD3C048706BBBD1 /* CompanySavedDescriptionViewModel.swift */; };
+		50A6C4B3567CA022F50DD613 /* VideoUploadViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 807C5966A6BE5E1365164C84 /* VideoUploadViewModel.swift */; };
+		50A97501EAAA63548646A687 /* CompanyDescriptionTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F3DD32639F232E28FF85B69 /* CompanyDescriptionTwoViewModel.swift */; };
+		520D2814FFBCE35BB263DEC0 /* CompanyProfileOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAA0BDE26C440D6DE10EEE89 /* CompanyProfileOneView.swift */; };
+		52EF31830080B4E220A342F6 /* CompanyApplyViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4280B464EE3B62DFA56CEF7F /* CompanyApplyViewModel.swift */; };
+		5628C66430D2A5F054BE3187 /* CandiProfileOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C3269A5708BEFA6459BA29E /* CandiProfileOneViewModel.swift */; };
+		5645EA38111716907D5C9444 /* VHackHomeCompaPageOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AC639F9A748CCB73D50A107 /* VHackHomeCompaPageOneViewModel.swift */; };
+		5F0145F68BE94B1050408372 /* CandiDescriptionThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBDC6698ACF05E5319DFABF6 /* CandiDescriptionThreeView.swift */; };
+		5F5B3B71517D2C1327BFA649 /* VHackHomeCompaPageTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0E88E451B3B2465E59582FF3 /* VHackHomeCompaPageTwoView.swift */; };
+		656D24BF28EF4756E110331E /* SavedCompanyApplyOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E01D8B6591EF733777F78BE1 /* SavedCompanyApplyOneViewModel.swift */; };
+		66DA8D07094089C040E0B5FF /* CompanyProfileTwoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6BACC9BFC7D21FD11AAC07E /* CompanyProfileTwoView.swift */; };
+		6976E5505C3317AE06BFDEFD /* VHackSavedCompaPageOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEDFE22F6A501D43A0F0EEB0 /* VHackSavedCompaPageOneViewModel.swift */; };
+		6ADE2E79D817AA8C228620C8 /* SavedCandiDescriptionViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DA54672870687C2C9E70827 /* SavedCandiDescriptionViewModel.swift */; };
+		6CA82E1321441DDFD432DD83 /* VHackUserProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFE2F98D6B76B7B141FDBDAC /* VHackUserProfileView.swift */; };
+		78C37835D5729B369A1CFFC5 /* RobotoBlack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67C87D08B68AC7E1B21C2A6D /* RobotoBlack.ttf */; };
+		7E2C3D0CEB920E607B46B124 /* RobotoRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FF25D291AE199EE4471DC35C /* RobotoRegular.ttf */; };
+		7F1BCFDDD9F8663D5226322E /* CompanySavedDescriptionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BF0FE7E14EB855691A93B08 /* CompanySavedDescriptionView.swift */; };
+		7F44DBA127422A5D00171570 /* ActivityLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7F44DBA027422A5D00171570 /* ActivityLoader.swift */; };
+		800E6370EB409880001C0408 /* RowcompanynasaCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = CAF6D435407B2FD27320DB71 /* RowcompanynasaCell.swift */; };
+		8098C22493C5943806DEE551 /* VHackSavedCompaPageOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366F66B6AAC18679DBE68694 /* VHackSavedCompaPageOneView.swift */; };
+		8099188DCF7AE49156F74EE5 /* CandiProfileOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F1B5A6056AD4EF379ECF52C /* CandiProfileOneView.swift */; };
+		8221281C3DA2641A2513BFFD /* RobotoRomanBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 919DB1F889E53CE7CE6EA87A /* RobotoRomanBold.ttf */; };
+		86EF94A761EA0C77163D37DE /* VHackSavedCandiPageOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D5A19CD9477722F8EFF3B28 /* VHackSavedCandiPageOneView.swift */; };
+		884F3E5127B0E65A00963FC4 /* RoundedCornersView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */; };
+		8853052627718DC500B04E6F /* ViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052527718DC500B04E6F /* ViewExtension.swift */; };
+		8853052A27718E2D00B04E6F /* EncodableExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052927718E2D00B04E6F /* EncodableExtension.swift */; };
+		8853052C2771949600B04E6F /* UINavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8853052B2771949600B04E6F /* UINavigationController.swift */; };
+		88680D1C2775C601002E964F /* ViewportHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88680D1B2775C601002E964F /* ViewportHelper.swift */; };
+		888CB47527686A000041116C /* APIExtensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888CB47427686A000041116C /* APIExtensions.swift */; };
+		88D61F13CCF1EDA90AB09DF4 /* VHackHomeCandiPageThreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB27E4B1B50DEF1B95148ED9 /* VHackHomeCandiPageThreeViewModel.swift */; };
+		88ED74EC272FFE6F0088E3EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88ED74EB272FFE6F0088E3EF /* Assets.xcassets */; };
+		88ED74EF272FFE6F0088E3EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 88ED74EE272FFE6F0088E3EF /* Preview Assets.xcassets */; };
+		88ED7500272FFECA0088E3EF /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74F7272FFECA0088E3EF /* Utilities.swift */; };
+		88ED7501272FFECA0088E3EF /* AppConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74F9272FFECA0088E3EF /* AppConstants.swift */; };
+		88ED7503272FFECA0088E3EF /* APIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74FD272FFECA0088E3EF /* APIManager.swift */; };
+		88ED7504272FFECA0088E3EF /* Chengxiangwensapplication2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88ED74FF272FFECA0088E3EF /* Chengxiangwensapplication2App.swift */; };
+		88FB706520B4E018DDED0A33 /* CandiDescriptionOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 702CACD79DC4CFDA7E0D60B1 /* CandiDescriptionOneView.swift */; };
+		8CDBB22B30A4257021452267 /* ChatCandiThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 462D5ABB9238BA06370A6EE8 /* ChatCandiThreeView.swift */; };
+		922CC707503C3C3F70473C01 /* ColorConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6392586BC9AF80E2C7ABE858 /* ColorConstants.swift */; };
+		93BEA3F62AC39EE7C4ACEAAA /* CandiDescriptionThreeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDAD4BC82FA0BB31C72961EC /* CandiDescriptionThreeViewModel.swift */; };
+		96B19098D52E5B0BB1E983FA /* ChatCandiOneView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96A5CCFE560685BC4B4D8190 /* ChatCandiOneView.swift */; };
+		9DD144B34BCE82568E0EB928 /* VHackHomeCandiPageOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6EADC5FDCDD56EF61421E329 /* VHackHomeCandiPageOneViewModel.swift */; };
+		9F24A15D24D794CF2BF4BDA2 /* CompanyApply1View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51CEFC9A9ABBABF27B83A734 /* CompanyApply1View.swift */; };
+		A0402372515A830183886A28 /* CompanySavedProfileOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2443C5BE5579CD33044BFB7 /* CompanySavedProfileOneViewModel.swift */; };
+		A0488DC9AC46B80629BA77B4 /* ChatCandiOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7531D067835B19D567540394 /* ChatCandiOneViewModel.swift */; };
+		A1B600783A6C004CE0B93CC6 /* CompanyApply2View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 48A91EB97941B91FA415923C /* CompanyApply2View.swift */; };
+		AB76917D1A70922FEA5BA861 /* VHackHomeCandiPageThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 663D9AB15D9B468F96198105 /* VHackHomeCandiPageThreeView.swift */; };
+		ABAE772D04DA72C2F2AF6956 /* CompanyProfileOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E12089E32577C7E6719B4900 /* CompanyProfileOneViewModel.swift */; };
+		ABE2627C6E5944CD54AC7328 /* RobotoRomanMedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8B9A8C897E4A9C21716E5A60 /* RobotoRomanMedium.ttf */; };
+		B290FAB9D6A7FC5362176AC2 /* FabButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = DC904D5F057EE2B45684366F /* FabButton.swift */; };
+		B42F065B12D8C006B59E8607 /* RobotoRomanLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 46A8F5BB6AAC51A7247413D5 /* RobotoRomanLight.ttf */; };
+		B7B6C36AB3EE2E28D271546B /* SavedCandiProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DBE8F583C83384DCA1E74BA /* SavedCandiProfileView.swift */; };
+		BFF02D20A9FD555AB339AE51 /* CandiProfileThreeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A73F6776E2550E9F2E8D992 /* CandiProfileThreeView.swift */; };
+		C40AB9F82754D79E006BC5D7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */; };
+		CC81EDD20954EA400D7DCC0E /* CompanyApply2ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A4F77F5E04A79F8B38B1149 /* CompanyApply2ViewModel.swift */; };
+		D30FA9E04BBD52DBA8B69C7A /* CompanyProfileTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F837DA93AD51D9BC16F0D7 /* CompanyProfileTwoViewModel.swift */; };
+		DB6D6F4A8F71212D43C8D645 /* FontScheme.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD30A24B99A602D18E02B575 /* FontScheme.swift */; };
+		E5D12E36AF67FC3F1DD0BF39 /* RobotoRomanRegular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 48631E7B6AFE9B0527776D8D /* RobotoRomanRegular.ttf */; };
+		EBBD079E07A7FC904CBC088A /* SavedCandiChatView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2C86D7ACE568791E784FA0C /* SavedCandiChatView.swift */; };
+		F0881369DF1BB4B89F7CAF1D /* SavedCandiChatViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4FB979EF1A3BD22C9939B7E0 /* SavedCandiChatViewModel.swift */; };
+		F4C11BE2F6BEA1A6134D8242 /* CompanyApply3View.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AF8982C8149B2B80F2AFC01 /* CompanyApply3View.swift */; };
+		F4C664784F23A7A0C2747C15 /* CompanyDescriptionOneViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24303444931AC02DBD57F833 /* CompanyDescriptionOneViewModel.swift */; };
+		F512AC8092C1D2E638B44F74 /* SavedCandiProfileViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BEF04C9B2C4AED3652F01C0 /* SavedCandiProfileViewModel.swift */; };
+		F97E15B813501A7A5249179B /* VHackHomeCompaPageTwoViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2D46513DF00C67611E8FC87 /* VHackHomeCompaPageTwoViewModel.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		021E35DE453683C6C21F216E /* VHackHomeCompaPageOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCompaPageOneView.swift; sourceTree = "<group>"; };
+		0978A1AEE0EBE2DFB243C396 /* VHackHomeCandiPageOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCandiPageOneView.swift; sourceTree = "<group>"; };
+		0BB0B04D38E0972E8E8C14C8 /* CompanyApply1ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApply1ViewModel.swift; sourceTree = "<group>"; };
+		0C3269A5708BEFA6459BA29E /* CandiProfileOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiProfileOneViewModel.swift; sourceTree = "<group>"; };
+		0E88E451B3B2465E59582FF3 /* VHackHomeCompaPageTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCompaPageTwoView.swift; sourceTree = "<group>"; };
+		13EC1AB93B628F07F21FFF47 /* VHackUserProfileViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackUserProfileViewModel.swift; sourceTree = "<group>"; };
+		1DA54672870687C2C9E70827 /* SavedCandiDescriptionViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCandiDescriptionViewModel.swift; sourceTree = "<group>"; };
+		1DBE8F583C83384DCA1E74BA /* SavedCandiProfileView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCandiProfileView.swift; sourceTree = "<group>"; };
+		24303444931AC02DBD57F833 /* CompanyDescriptionOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyDescriptionOneViewModel.swift; sourceTree = "<group>"; };
+		28A961E6B024BCD36A88043E /* SavedCompanyApplyOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCompanyApplyOneView.swift; sourceTree = "<group>"; };
+		366F66B6AAC18679DBE68694 /* VHackSavedCompaPageOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackSavedCompaPageOneView.swift; sourceTree = "<group>"; };
+		3F1B5A6056AD4EF379ECF52C /* CandiProfileOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiProfileOneView.swift; sourceTree = "<group>"; };
+		4280B464EE3B62DFA56CEF7F /* CompanyApplyViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApplyViewModel.swift; sourceTree = "<group>"; };
+		462362B4958CAA386A255D22 /* CompanyDescriptionOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyDescriptionOneView.swift; sourceTree = "<group>"; };
+		462D5ABB9238BA06370A6EE8 /* ChatCandiThreeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ChatCandiThreeView.swift; sourceTree = "<group>"; };
+		46A8F5BB6AAC51A7247413D5 /* RobotoRomanLight.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = RobotoRomanLight.ttf; sourceTree = "<group>"; };
+		48631E7B6AFE9B0527776D8D /* RobotoRomanRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = RobotoRomanRegular.ttf; sourceTree = "<group>"; };
+		48A91EB97941B91FA415923C /* CompanyApply2View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApply2View.swift; sourceTree = "<group>"; };
+		4FB979EF1A3BD22C9939B7E0 /* SavedCandiChatViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCandiChatViewModel.swift; sourceTree = "<group>"; };
+		51B9E29D30037AC92D6C3D6A /* VideoUploadView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VideoUploadView.swift; sourceTree = "<group>"; };
+		51CEFC9A9ABBABF27B83A734 /* CompanyApply1View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApply1View.swift; sourceTree = "<group>"; };
+		5ED58DDD0053CD169BD9BBEA /* StringScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = StringScheme.swift; sourceTree = "<group>"; };
+		6392586BC9AF80E2C7ABE858 /* ColorConstants.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ColorConstants.swift; sourceTree = "<group>"; };
+		63F17C2B96CA7B5152DD02A2 /* CompanyApplyView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApplyView.swift; sourceTree = "<group>"; };
+		663D9AB15D9B468F96198105 /* VHackHomeCandiPageThreeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCandiPageThreeView.swift; sourceTree = "<group>"; };
+		67C87D08B68AC7E1B21C2A6D /* RobotoBlack.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = RobotoBlack.ttf; sourceTree = "<group>"; };
+		68642F4BD45B9578AA559847 /* SavedCandiDescriptionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCandiDescriptionView.swift; sourceTree = "<group>"; };
+		6D5A19CD9477722F8EFF3B28 /* VHackSavedCandiPageOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackSavedCandiPageOneView.swift; sourceTree = "<group>"; };
+		6EADC5FDCDD56EF61421E329 /* VHackHomeCandiPageOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCandiPageOneViewModel.swift; sourceTree = "<group>"; };
+		6F3DD32639F232E28FF85B69 /* CompanyDescriptionTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyDescriptionTwoViewModel.swift; sourceTree = "<group>"; };
+		702CACD79DC4CFDA7E0D60B1 /* CandiDescriptionOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiDescriptionOneView.swift; sourceTree = "<group>"; };
+		7531D067835B19D567540394 /* ChatCandiOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ChatCandiOneViewModel.swift; sourceTree = "<group>"; };
+		78535D7422CB3C686C2DB8FA /* ChatCandiThreeViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ChatCandiThreeViewModel.swift; sourceTree = "<group>"; };
+		7AF8982C8149B2B80F2AFC01 /* CompanyApply3View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApply3View.swift; sourceTree = "<group>"; };
+		7BF0FE7E14EB855691A93B08 /* CompanySavedDescriptionView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanySavedDescriptionView.swift; sourceTree = "<group>"; };
+		7F44DBA027422A5D00171570 /* ActivityLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityLoader.swift; sourceTree = "<group>"; };
+		807C5966A6BE5E1365164C84 /* VideoUploadViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VideoUploadViewModel.swift; sourceTree = "<group>"; };
+		821FA6D07AD3C048706BBBD1 /* CompanySavedDescriptionViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanySavedDescriptionViewModel.swift; sourceTree = "<group>"; };
+		884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundedCornersView.swift; sourceTree = "<group>"; };
+		8853052527718DC500B04E6F /* ViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewExtension.swift; sourceTree = "<group>"; };
+		8853052927718E2D00B04E6F /* EncodableExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EncodableExtension.swift; sourceTree = "<group>"; };
+		8853052B2771949600B04E6F /* UINavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UINavigationController.swift; sourceTree = "<group>"; };
+		88680D1B2775C601002E964F /* ViewportHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewportHelper.swift; sourceTree = "<group>"; };
+		888CB47427686A000041116C /* APIExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APIExtensions.swift; sourceTree = "<group>"; };
+		88ED74E4272FFE6E0088E3EF /* Chengxiangwensapplication2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Chengxiangwensapplication2.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		88ED74EB272FFE6F0088E3EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		88ED74EE272FFE6F0088E3EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		88ED74F0272FFE6F0088E3EF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		88ED74F7272FFECA0088E3EF /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
+		88ED74F9272FFECA0088E3EF /* AppConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppConstants.swift; sourceTree = "<group>"; };
+		88ED74FD272FFECA0088E3EF /* APIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIManager.swift; sourceTree = "<group>"; };
+		88ED74FF272FFECA0088E3EF /* Chengxiangwensapplication2App.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chengxiangwensapplication2App.swift; sourceTree = "<group>"; };
+		8A73F6776E2550E9F2E8D992 /* CandiProfileThreeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiProfileThreeView.swift; sourceTree = "<group>"; };
+		8AC639F9A748CCB73D50A107 /* VHackHomeCompaPageOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCompaPageOneViewModel.swift; sourceTree = "<group>"; };
+		8B9A8C897E4A9C21716E5A60 /* RobotoRomanMedium.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = RobotoRomanMedium.ttf; sourceTree = "<group>"; };
+		8F831CA366F2E402B2EC2056 /* InterSemiBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = InterSemiBold.ttf; sourceTree = "<group>"; };
+		919DB1F889E53CE7CE6EA87A /* RobotoRomanBold.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = RobotoRomanBold.ttf; sourceTree = "<group>"; };
+		92FEC72B81FEDDD3DD395A3B /* CompanyDescriptionTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyDescriptionTwoView.swift; sourceTree = "<group>"; };
+		96A5CCFE560685BC4B4D8190 /* ChatCandiOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = ChatCandiOneView.swift; sourceTree = "<group>"; };
+		9A4F77F5E04A79F8B38B1149 /* CompanyApply2ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApply2ViewModel.swift; sourceTree = "<group>"; };
+		9BEF04C9B2C4AED3652F01C0 /* SavedCandiProfileViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCandiProfileViewModel.swift; sourceTree = "<group>"; };
+		A814B651B1E7608989E79730 /* CompanyApply3ViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyApply3ViewModel.swift; sourceTree = "<group>"; };
+		A95895F5710F256D89084BE0 /* CandiProfileThreeViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiProfileThreeViewModel.swift; sourceTree = "<group>"; };
+		AAE5B3B102F613B415F87793 /* VHackSavedCandiPageOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackSavedCandiPageOneViewModel.swift; sourceTree = "<group>"; };
+		BAA0BDE26C440D6DE10EEE89 /* CompanyProfileOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyProfileOneView.swift; sourceTree = "<group>"; };
+		BFE2079BA68FBD009384A1AA /* CandiDescriptionOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiDescriptionOneViewModel.swift; sourceTree = "<group>"; };
+		C2C86D7ACE568791E784FA0C /* SavedCandiChatView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCandiChatView.swift; sourceTree = "<group>"; };
+		C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		CAF6D435407B2FD27320DB71 /* RowcompanynasaCell.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = RowcompanynasaCell.swift; sourceTree = "<group>"; };
+		DC904D5F057EE2B45684366F /* FabButton.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FabButton.swift; sourceTree = "<group>"; };
+		DD30A24B99A602D18E02B575 /* FontScheme.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = FontScheme.swift; sourceTree = "<group>"; };
+		DDAD4BC82FA0BB31C72961EC /* CandiDescriptionThreeViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiDescriptionThreeViewModel.swift; sourceTree = "<group>"; };
+		E01D8B6591EF733777F78BE1 /* SavedCompanyApplyOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = SavedCompanyApplyOneViewModel.swift; sourceTree = "<group>"; };
+		E12089E32577C7E6719B4900 /* CompanyProfileOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyProfileOneViewModel.swift; sourceTree = "<group>"; };
+		E2D46513DF00C67611E8FC87 /* VHackHomeCompaPageTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCompaPageTwoViewModel.swift; sourceTree = "<group>"; };
+		E472196F728C3BC264541AEF /* CompanySavedProfileOneView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanySavedProfileOneView.swift; sourceTree = "<group>"; };
+		E6BACC9BFC7D21FD11AAC07E /* CompanyProfileTwoView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyProfileTwoView.swift; sourceTree = "<group>"; };
+		EB27E4B1B50DEF1B95148ED9 /* VHackHomeCandiPageThreeViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackHomeCandiPageThreeViewModel.swift; sourceTree = "<group>"; };
+		F1F837DA93AD51D9BC16F0D7 /* CompanyProfileTwoViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanyProfileTwoViewModel.swift; sourceTree = "<group>"; };
+		F2443C5BE5579CD33044BFB7 /* CompanySavedProfileOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CompanySavedProfileOneViewModel.swift; sourceTree = "<group>"; };
+		FBDC6698ACF05E5319DFABF6 /* CandiDescriptionThreeView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = CandiDescriptionThreeView.swift; sourceTree = "<group>"; };
+		FEDFE22F6A501D43A0F0EEB0 /* VHackSavedCompaPageOneViewModel.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackSavedCompaPageOneViewModel.swift; sourceTree = "<group>"; };
+		FF25D291AE199EE4471DC35C /* RobotoRegular.ttf */ = {isa = PBXFileReference; includeInIndex = 1; path = RobotoRegular.ttf; sourceTree = "<group>"; };
+		FFE2F98D6B76B7B141FDBDAC /* VHackUserProfileView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = VHackUserProfileView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		88ED74E1272FFE6E0088E3EF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0132BB56FCCEB4D3EC12BA2C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				7933F8B7B787301D7BED219A /* Fonts */,
+			);
+			name = Resources;
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		0572A335BDA35DFD8FEF0221 /* FabButton */ = {
+			isa = PBXGroup;
+			children = (
+				DC904D5F057EE2B45684366F /* FabButton.swift */,
+			);
+			name = FabButton;
+			path = FabButton;
+			sourceTree = "<group>";
+		};
+		0FEE5ADE33115B857820FB27 /* Cell */ = {
+			isa = PBXGroup;
+			children = (
+				CAF6D435407B2FD27320DB71 /* RowcompanynasaCell.swift */,
+			);
+			name = Cell;
+			path = Cell;
+			sourceTree = "<group>";
+		};
+		1C286555AB82E6A62FAFB89B /* SavedCompanyApplyOneView */ = {
+			isa = PBXGroup;
+			children = (
+				28A961E6B024BCD36A88043E /* SavedCompanyApplyOneView.swift */,
+				E01D8B6591EF733777F78BE1 /* SavedCompanyApplyOneViewModel.swift */,
+			);
+			name = SavedCompanyApplyOneView;
+			path = SavedCompanyApplyOneView;
+			sourceTree = "<group>";
+		};
+		2499BC6ACCA8E7AF006F5B1E /* SavedCandiProfileView */ = {
+			isa = PBXGroup;
+			children = (
+				1DBE8F583C83384DCA1E74BA /* SavedCandiProfileView.swift */,
+				9BEF04C9B2C4AED3652F01C0 /* SavedCandiProfileViewModel.swift */,
+			);
+			name = SavedCandiProfileView;
+			path = SavedCandiProfileView;
+			sourceTree = "<group>";
+		};
+		30D9A4780CFB86599E975BF6 /* VideoUploadView */ = {
+			isa = PBXGroup;
+			children = (
+				51B9E29D30037AC92D6C3D6A /* VideoUploadView.swift */,
+				807C5966A6BE5E1365164C84 /* VideoUploadViewModel.swift */,
+			);
+			name = VideoUploadView;
+			path = VideoUploadView;
+			sourceTree = "<group>";
+		};
+		3500BF2B0D1ADEACB04F2EE4 /* CompanyApply3View */ = {
+			isa = PBXGroup;
+			children = (
+				7AF8982C8149B2B80F2AFC01 /* CompanyApply3View.swift */,
+				A814B651B1E7608989E79730 /* CompanyApply3ViewModel.swift */,
+			);
+			name = CompanyApply3View;
+			path = CompanyApply3View;
+			sourceTree = "<group>";
+		};
+		36014F99EFB5073C5CA7F145 /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				0572A335BDA35DFD8FEF0221 /* FabButton */,
+			);
+			name = CustomViews;
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		44DD4F4C52693F46FF0D8A29 /* CandiProfileThreeView */ = {
+			isa = PBXGroup;
+			children = (
+				8A73F6776E2550E9F2E8D992 /* CandiProfileThreeView.swift */,
+				A95895F5710F256D89084BE0 /* CandiProfileThreeViewModel.swift */,
+			);
+			name = CandiProfileThreeView;
+			path = CandiProfileThreeView;
+			sourceTree = "<group>";
+		};
+		463044AEAC2A3D15B80D076C /* VHackHomeCompaPageOneView */ = {
+			isa = PBXGroup;
+			children = (
+				021E35DE453683C6C21F216E /* VHackHomeCompaPageOneView.swift */,
+				8AC639F9A748CCB73D50A107 /* VHackHomeCompaPageOneViewModel.swift */,
+			);
+			name = VHackHomeCompaPageOneView;
+			path = VHackHomeCompaPageOneView;
+			sourceTree = "<group>";
+		};
+		485719BFAA3F61666E5A6AD8 /* CandiDescriptionOneView */ = {
+			isa = PBXGroup;
+			children = (
+				702CACD79DC4CFDA7E0D60B1 /* CandiDescriptionOneView.swift */,
+				BFE2079BA68FBD009384A1AA /* CandiDescriptionOneViewModel.swift */,
+			);
+			name = CandiDescriptionOneView;
+			path = CandiDescriptionOneView;
+			sourceTree = "<group>";
+		};
+		4FD0DB6D6333016D1BA4CF77 /* CompanyApply1View */ = {
+			isa = PBXGroup;
+			children = (
+				51CEFC9A9ABBABF27B83A734 /* CompanyApply1View.swift */,
+				0BB0B04D38E0972E8E8C14C8 /* CompanyApply1ViewModel.swift */,
+			);
+			name = CompanyApply1View;
+			path = CompanyApply1View;
+			sourceTree = "<group>";
+		};
+		5438EAA35C5B10D4885235EC /* VHackHomeCandiPageOneView */ = {
+			isa = PBXGroup;
+			children = (
+				0978A1AEE0EBE2DFB243C396 /* VHackHomeCandiPageOneView.swift */,
+				6EADC5FDCDD56EF61421E329 /* VHackHomeCandiPageOneViewModel.swift */,
+			);
+			name = VHackHomeCandiPageOneView;
+			path = VHackHomeCandiPageOneView;
+			sourceTree = "<group>";
+		};
+		5EC53FE69314D3EA9C92B54D /* CandiProfileOneView */ = {
+			isa = PBXGroup;
+			children = (
+				3F1B5A6056AD4EF379ECF52C /* CandiProfileOneView.swift */,
+				0C3269A5708BEFA6459BA29E /* CandiProfileOneViewModel.swift */,
+			);
+			name = CandiProfileOneView;
+			path = CandiProfileOneView;
+			sourceTree = "<group>";
+		};
+		6711C30687F056B4F9FA2F8C /* ChatCandiThreeView */ = {
+			isa = PBXGroup;
+			children = (
+				462D5ABB9238BA06370A6EE8 /* ChatCandiThreeView.swift */,
+				78535D7422CB3C686C2DB8FA /* ChatCandiThreeViewModel.swift */,
+			);
+			name = ChatCandiThreeView;
+			path = ChatCandiThreeView;
+			sourceTree = "<group>";
+		};
+		69BF19CCA3345453D0B6F6EA /* SavedCandiChatView */ = {
+			isa = PBXGroup;
+			children = (
+				C2C86D7ACE568791E784FA0C /* SavedCandiChatView.swift */,
+				4FB979EF1A3BD22C9939B7E0 /* SavedCandiChatViewModel.swift */,
+			);
+			name = SavedCandiChatView;
+			path = SavedCandiChatView;
+			sourceTree = "<group>";
+		};
+		7933F8B7B787301D7BED219A /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				FF25D291AE199EE4471DC35C /* RobotoRegular.ttf */,
+				919DB1F889E53CE7CE6EA87A /* RobotoRomanBold.ttf */,
+				8B9A8C897E4A9C21716E5A60 /* RobotoRomanMedium.ttf */,
+				67C87D08B68AC7E1B21C2A6D /* RobotoBlack.ttf */,
+				46A8F5BB6AAC51A7247413D5 /* RobotoRomanLight.ttf */,
+				48631E7B6AFE9B0527776D8D /* RobotoRomanRegular.ttf */,
+				8F831CA366F2E402B2EC2056 /* InterSemiBold.ttf */,
+			);
+			name = Fonts;
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		7F44DB9E27422A4200171570 /* Helper */ = {
+			isa = PBXGroup;
+			children = (
+				88680D1A2775C5BD002E964F /* Viewport */,
+				7F44DB9F27422A4200171570 /* ActivityLoader */,
+			);
+			path = Helper;
+			sourceTree = "<group>";
+		};
+		7F44DB9F27422A4200171570 /* ActivityLoader */ = {
+			isa = PBXGroup;
+			children = (
+				7F44DBA027422A5D00171570 /* ActivityLoader.swift */,
+			);
+			path = ActivityLoader;
+			sourceTree = "<group>";
+		};
+		84DA8843FFB7310E9D6C68F6 /* SavedCandiDescriptionView */ = {
+			isa = PBXGroup;
+			children = (
+				68642F4BD45B9578AA559847 /* SavedCandiDescriptionView.swift */,
+				0FEE5ADE33115B857820FB27 /* Cell */,
+				1DA54672870687C2C9E70827 /* SavedCandiDescriptionViewModel.swift */,
+			);
+			name = SavedCandiDescriptionView;
+			path = SavedCandiDescriptionView;
+			sourceTree = "<group>";
+		};
+		88680D1A2775C5BD002E964F /* Viewport */ = {
+			isa = PBXGroup;
+			children = (
+				88680D1B2775C601002E964F /* ViewportHelper.swift */,
+			);
+			path = Viewport;
+			sourceTree = "<group>";
+		};
+		88ED74DB272FFE6E0088E3EF = {
+			isa = PBXGroup;
+			children = (
+				88ED74E6272FFE6E0088E3EF /* Chengxiangwensapplication2 */,
+				88ED74E5272FFE6E0088E3EF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		88ED74E5272FFE6E0088E3EF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				88ED74E4272FFE6E0088E3EF /* Chengxiangwensapplication2.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		88ED74E6272FFE6E0088E3EF /* Chengxiangwensapplication2 */ = {
+			isa = PBXGroup;
+			children = (
+				88ED74FC272FFECA0088E3EF /* Services */,
+				88ED74FE272FFECA0088E3EF /* Application */,
+				88ED74F8272FFECA0088E3EF /* Constants */,
+				88ED74FA272FFECA0088E3EF /* Extensions */,
+				88ED74F6272FFECA0088E3EF /* Utilities */,
+				7F44DB9E27422A4200171570 /* Helper */,
+				88ED74EB272FFE6F0088E3EF /* Assets.xcassets */,
+				88ED74F0272FFE6F0088E3EF /* Info.plist */,
+				88ED74ED272FFE6F0088E3EF /* Preview Content */,
+				0132BB56FCCEB4D3EC12BA2C /* Resources */,
+				EF8F7CDE38892BF4EC5697E6 /* Views */,
+				36014F99EFB5073C5CA7F145 /* CustomViews */,
+			);
+			path = Chengxiangwensapplication2;
+			sourceTree = "<group>";
+		};
+		88ED74ED272FFE6F0088E3EF /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				88ED74EE272FFE6F0088E3EF /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		88ED74F6272FFECA0088E3EF /* Utilities */ = {
+			isa = PBXGroup;
+			children = (
+				88ED74F7272FFECA0088E3EF /* Utilities.swift */,
+			);
+			path = Utilities;
+			sourceTree = "<group>";
+		};
+		88ED74F8272FFECA0088E3EF /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				88ED74F9272FFECA0088E3EF /* AppConstants.swift */,
+				5ED58DDD0053CD169BD9BBEA /* StringScheme.swift */,
+				6392586BC9AF80E2C7ABE858 /* ColorConstants.swift */,
+				DD30A24B99A602D18E02B575 /* FontScheme.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		88ED74FA272FFECA0088E3EF /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				888CB47427686A000041116C /* APIExtensions.swift */,
+				8853052527718DC500B04E6F /* ViewExtension.swift */,
+				8853052B2771949600B04E6F /* UINavigationController.swift */,
+				8853052927718E2D00B04E6F /* EncodableExtension.swift */,
+				884F3E5027B0E65A00963FC4 /* RoundedCornersView.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		88ED74FC272FFECA0088E3EF /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				88ED74FD272FFECA0088E3EF /* APIManager.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		88ED74FE272FFECA0088E3EF /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				C40AB9F72754D79E006BC5D7 /* AppDelegate.swift */,
+				88ED74FF272FFECA0088E3EF /* Chengxiangwensapplication2App.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		8A185F090933A6CCE0690EAC /* VHackSavedCandiPageOneView */ = {
+			isa = PBXGroup;
+			children = (
+				6D5A19CD9477722F8EFF3B28 /* VHackSavedCandiPageOneView.swift */,
+				AAE5B3B102F613B415F87793 /* VHackSavedCandiPageOneViewModel.swift */,
+			);
+			name = VHackSavedCandiPageOneView;
+			path = VHackSavedCandiPageOneView;
+			sourceTree = "<group>";
+		};
+		8C562AA6AE55790E2C8FB430 /* CompanySavedDescriptionView */ = {
+			isa = PBXGroup;
+			children = (
+				7BF0FE7E14EB855691A93B08 /* CompanySavedDescriptionView.swift */,
+				821FA6D07AD3C048706BBBD1 /* CompanySavedDescriptionViewModel.swift */,
+			);
+			name = CompanySavedDescriptionView;
+			path = CompanySavedDescriptionView;
+			sourceTree = "<group>";
+		};
+		982DB97C61F633387559EFC4 /* CompanyDescriptionOneView */ = {
+			isa = PBXGroup;
+			children = (
+				462362B4958CAA386A255D22 /* CompanyDescriptionOneView.swift */,
+				24303444931AC02DBD57F833 /* CompanyDescriptionOneViewModel.swift */,
+			);
+			name = CompanyDescriptionOneView;
+			path = CompanyDescriptionOneView;
+			sourceTree = "<group>";
+		};
+		98649BF5FE68A9F310399C98 /* VHackHomeCompaPageTwoView */ = {
+			isa = PBXGroup;
+			children = (
+				0E88E451B3B2465E59582FF3 /* VHackHomeCompaPageTwoView.swift */,
+				E2D46513DF00C67611E8FC87 /* VHackHomeCompaPageTwoViewModel.swift */,
+			);
+			name = VHackHomeCompaPageTwoView;
+			path = VHackHomeCompaPageTwoView;
+			sourceTree = "<group>";
+		};
+		9EA27E12235EF13BD4D4FB7B /* CompanySavedProfileOneView */ = {
+			isa = PBXGroup;
+			children = (
+				E472196F728C3BC264541AEF /* CompanySavedProfileOneView.swift */,
+				F2443C5BE5579CD33044BFB7 /* CompanySavedProfileOneViewModel.swift */,
+			);
+			name = CompanySavedProfileOneView;
+			path = CompanySavedProfileOneView;
+			sourceTree = "<group>";
+		};
+		A006256C9086CA7D7C27AD95 /* CompanyApply2View */ = {
+			isa = PBXGroup;
+			children = (
+				48A91EB97941B91FA415923C /* CompanyApply2View.swift */,
+				9A4F77F5E04A79F8B38B1149 /* CompanyApply2ViewModel.swift */,
+			);
+			name = CompanyApply2View;
+			path = CompanyApply2View;
+			sourceTree = "<group>";
+		};
+		A5895BFA149C269E9DB9C485 /* VHackHomeCandiPageThreeView */ = {
+			isa = PBXGroup;
+			children = (
+				663D9AB15D9B468F96198105 /* VHackHomeCandiPageThreeView.swift */,
+				EB27E4B1B50DEF1B95148ED9 /* VHackHomeCandiPageThreeViewModel.swift */,
+			);
+			name = VHackHomeCandiPageThreeView;
+			path = VHackHomeCandiPageThreeView;
+			sourceTree = "<group>";
+		};
+		AFA1409F22FCD4FC7B59F520 /* ChatCandiOneView */ = {
+			isa = PBXGroup;
+			children = (
+				96A5CCFE560685BC4B4D8190 /* ChatCandiOneView.swift */,
+				7531D067835B19D567540394 /* ChatCandiOneViewModel.swift */,
+			);
+			name = ChatCandiOneView;
+			path = ChatCandiOneView;
+			sourceTree = "<group>";
+		};
+		B83251BBB3213A90AD4D0F9A /* CompanyApplyView */ = {
+			isa = PBXGroup;
+			children = (
+				63F17C2B96CA7B5152DD02A2 /* CompanyApplyView.swift */,
+				4280B464EE3B62DFA56CEF7F /* CompanyApplyViewModel.swift */,
+			);
+			name = CompanyApplyView;
+			path = CompanyApplyView;
+			sourceTree = "<group>";
+		};
+		BF1F0994CFE602F7918FC157 /* VHackSavedCompaPageOneView */ = {
+			isa = PBXGroup;
+			children = (
+				366F66B6AAC18679DBE68694 /* VHackSavedCompaPageOneView.swift */,
+				FEDFE22F6A501D43A0F0EEB0 /* VHackSavedCompaPageOneViewModel.swift */,
+			);
+			name = VHackSavedCompaPageOneView;
+			path = VHackSavedCompaPageOneView;
+			sourceTree = "<group>";
+		};
+		CAB1850990DD95EFB458E525 /* CompanyDescriptionTwoView */ = {
+			isa = PBXGroup;
+			children = (
+				92FEC72B81FEDDD3DD395A3B /* CompanyDescriptionTwoView.swift */,
+				6F3DD32639F232E28FF85B69 /* CompanyDescriptionTwoViewModel.swift */,
+			);
+			name = CompanyDescriptionTwoView;
+			path = CompanyDescriptionTwoView;
+			sourceTree = "<group>";
+		};
+		D1A91F8F0A9391F7471339B8 /* CandiDescriptionThreeView */ = {
+			isa = PBXGroup;
+			children = (
+				FBDC6698ACF05E5319DFABF6 /* CandiDescriptionThreeView.swift */,
+				DDAD4BC82FA0BB31C72961EC /* CandiDescriptionThreeViewModel.swift */,
+			);
+			name = CandiDescriptionThreeView;
+			path = CandiDescriptionThreeView;
+			sourceTree = "<group>";
+		};
+		DEDA77BB30D06DA203069BE9 /* CompanyProfileOneView */ = {
+			isa = PBXGroup;
+			children = (
+				BAA0BDE26C440D6DE10EEE89 /* CompanyProfileOneView.swift */,
+				E12089E32577C7E6719B4900 /* CompanyProfileOneViewModel.swift */,
+			);
+			name = CompanyProfileOneView;
+			path = CompanyProfileOneView;
+			sourceTree = "<group>";
+		};
+		EB3DAC351963622E27B8EE7B /* VHackUserProfileView */ = {
+			isa = PBXGroup;
+			children = (
+				FFE2F98D6B76B7B141FDBDAC /* VHackUserProfileView.swift */,
+				13EC1AB93B628F07F21FFF47 /* VHackUserProfileViewModel.swift */,
+			);
+			name = VHackUserProfileView;
+			path = VHackUserProfileView;
+			sourceTree = "<group>";
+		};
+		EF8F7CDE38892BF4EC5697E6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5438EAA35C5B10D4885235EC /* VHackHomeCandiPageOneView */,
+				30D9A4780CFB86599E975BF6 /* VideoUploadView */,
+				5EC53FE69314D3EA9C92B54D /* CandiProfileOneView */,
+				463044AEAC2A3D15B80D076C /* VHackHomeCompaPageOneView */,
+				DEDA77BB30D06DA203069BE9 /* CompanyProfileOneView */,
+				8A185F090933A6CCE0690EAC /* VHackSavedCandiPageOneView */,
+				2499BC6ACCA8E7AF006F5B1E /* SavedCandiProfileView */,
+				485719BFAA3F61666E5A6AD8 /* CandiDescriptionOneView */,
+				982DB97C61F633387559EFC4 /* CompanyDescriptionOneView */,
+				84DA8843FFB7310E9D6C68F6 /* SavedCandiDescriptionView */,
+				AFA1409F22FCD4FC7B59F520 /* ChatCandiOneView */,
+				B83251BBB3213A90AD4D0F9A /* CompanyApplyView */,
+				4FD0DB6D6333016D1BA4CF77 /* CompanyApply1View */,
+				A006256C9086CA7D7C27AD95 /* CompanyApply2View */,
+				69BF19CCA3345453D0B6F6EA /* SavedCandiChatView */,
+				98649BF5FE68A9F310399C98 /* VHackHomeCompaPageTwoView */,
+				FAF042E7D476FA97101BBE20 /* CompanyProfileTwoView */,
+				BF1F0994CFE602F7918FC157 /* VHackSavedCompaPageOneView */,
+				9EA27E12235EF13BD4D4FB7B /* CompanySavedProfileOneView */,
+				A5895BFA149C269E9DB9C485 /* VHackHomeCandiPageThreeView */,
+				44DD4F4C52693F46FF0D8A29 /* CandiProfileThreeView */,
+				CAB1850990DD95EFB458E525 /* CompanyDescriptionTwoView */,
+				8C562AA6AE55790E2C8FB430 /* CompanySavedDescriptionView */,
+				D1A91F8F0A9391F7471339B8 /* CandiDescriptionThreeView */,
+				3500BF2B0D1ADEACB04F2EE4 /* CompanyApply3View */,
+				1C286555AB82E6A62FAFB89B /* SavedCompanyApplyOneView */,
+				6711C30687F056B4F9FA2F8C /* ChatCandiThreeView */,
+				EB3DAC351963622E27B8EE7B /* VHackUserProfileView */,
+			);
+			name = Views;
+			path = Views;
+			sourceTree = "<group>";
+		};
+		FAF042E7D476FA97101BBE20 /* CompanyProfileTwoView */ = {
+			isa = PBXGroup;
+			children = (
+				E6BACC9BFC7D21FD11AAC07E /* CompanyProfileTwoView.swift */,
+				F1F837DA93AD51D9BC16F0D7 /* CompanyProfileTwoViewModel.swift */,
+			);
+			name = CompanyProfileTwoView;
+			path = CompanyProfileTwoView;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		88ED74E3272FFE6E0088E3EF /* Chengxiangwensapplication2 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 88ED74F3272FFE6F0088E3EF /* Build configuration list for PBXNativeTarget "Chengxiangwensapplication2" */;
+			buildPhases = (
+				88ED74E0272FFE6E0088E3EF /* Sources */,
+				88ED74E1272FFE6E0088E3EF /* Frameworks */,
+				88ED74E2272FFE6E0088E3EF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Chengxiangwensapplication2;
+			productName = Chengxiangwensapplication2;
+			productReference = 88ED74E4272FFE6E0088E3EF /* Chengxiangwensapplication2.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		88ED74DC272FFE6E0088E3EF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					88ED74E3272FFE6E0088E3EF = {
+						CreatedOnToolsVersion = 12.5;
+					};
+				};
+			};
+			buildConfigurationList = 88ED74DF272FFE6E0088E3EF /* Build configuration list for PBXProject "Chengxiangwensapplication2" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 88ED74DB272FFE6E0088E3EF;
+			productRefGroup = 88ED74E5272FFE6E0088E3EF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				88ED74E3272FFE6E0088E3EF /* Chengxiangwensapplication2 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		88ED74E2272FFE6E0088E3EF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				88ED74EF272FFE6F0088E3EF /* Preview Assets.xcassets in Resources */,
+				88ED74EC272FFE6F0088E3EF /* Assets.xcassets in Resources */,
+				7E2C3D0CEB920E607B46B124 /* RobotoRegular.ttf in Resources */,
+				8221281C3DA2641A2513BFFD /* RobotoRomanBold.ttf in Resources */,
+				ABE2627C6E5944CD54AC7328 /* RobotoRomanMedium.ttf in Resources */,
+				78C37835D5729B369A1CFFC5 /* RobotoBlack.ttf in Resources */,
+				B42F065B12D8C006B59E8607 /* RobotoRomanLight.ttf in Resources */,
+				E5D12E36AF67FC3F1DD0BF39 /* RobotoRomanRegular.ttf in Resources */,
+				3C3F8C1F795187C966C74CEE /* InterSemiBold.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		88ED74E0272FFE6E0088E3EF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				888CB47527686A000041116C /* APIExtensions.swift in Sources */,
+				8853052A27718E2D00B04E6F /* EncodableExtension.swift in Sources */,
+				8853052C2771949600B04E6F /* UINavigationController.swift in Sources */,
+				88ED7503272FFECA0088E3EF /* APIManager.swift in Sources */,
+				7F44DBA127422A5D00171570 /* ActivityLoader.swift in Sources */,
+				8853052627718DC500B04E6F /* ViewExtension.swift in Sources */,
+				88ED7500272FFECA0088E3EF /* Utilities.swift in Sources */,
+				88ED7504272FFECA0088E3EF /* Chengxiangwensapplication2App.swift in Sources */,
+				C40AB9F82754D79E006BC5D7 /* AppDelegate.swift in Sources */,
+				88680D1C2775C601002E964F /* ViewportHelper.swift in Sources */,
+				88ED7501272FFECA0088E3EF /* AppConstants.swift in Sources */,
+				884F3E5127B0E65A00963FC4 /* RoundedCornersView.swift in Sources */,
+				0467E2962C533B2ADA721175 /* StringScheme.swift in Sources */,
+				922CC707503C3C3F70473C01 /* ColorConstants.swift in Sources */,
+				DB6D6F4A8F71212D43C8D645 /* FontScheme.swift in Sources */,
+				29A12C0DF7638B90737FA582 /* VHackHomeCandiPageOneView.swift in Sources */,
+				24F1F9FB528299F123AD1D29 /* VideoUploadView.swift in Sources */,
+				8099188DCF7AE49156F74EE5 /* CandiProfileOneView.swift in Sources */,
+				48C3FFAB4C21D922A56EBA31 /* VHackHomeCompaPageOneView.swift in Sources */,
+				520D2814FFBCE35BB263DEC0 /* CompanyProfileOneView.swift in Sources */,
+				86EF94A761EA0C77163D37DE /* VHackSavedCandiPageOneView.swift in Sources */,
+				B7B6C36AB3EE2E28D271546B /* SavedCandiProfileView.swift in Sources */,
+				88FB706520B4E018DDED0A33 /* CandiDescriptionOneView.swift in Sources */,
+				4D1DC32FE2155C2D2185E679 /* CompanyDescriptionOneView.swift in Sources */,
+				228A12707D21DB4C2913881E /* SavedCandiDescriptionView.swift in Sources */,
+				800E6370EB409880001C0408 /* RowcompanynasaCell.swift in Sources */,
+				96B19098D52E5B0BB1E983FA /* ChatCandiOneView.swift in Sources */,
+				475EAB4CEB2565BE1CCEB267 /* CompanyApplyView.swift in Sources */,
+				9F24A15D24D794CF2BF4BDA2 /* CompanyApply1View.swift in Sources */,
+				A1B600783A6C004CE0B93CC6 /* CompanyApply2View.swift in Sources */,
+				EBBD079E07A7FC904CBC088A /* SavedCandiChatView.swift in Sources */,
+				5F5B3B71517D2C1327BFA649 /* VHackHomeCompaPageTwoView.swift in Sources */,
+				66DA8D07094089C040E0B5FF /* CompanyProfileTwoView.swift in Sources */,
+				8098C22493C5943806DEE551 /* VHackSavedCompaPageOneView.swift in Sources */,
+				2CF4009CA17B5EA1B55ED995 /* CompanySavedProfileOneView.swift in Sources */,
+				AB76917D1A70922FEA5BA861 /* VHackHomeCandiPageThreeView.swift in Sources */,
+				BFF02D20A9FD555AB339AE51 /* CandiProfileThreeView.swift in Sources */,
+				1E80CD3F98114523E94199AF /* CompanyDescriptionTwoView.swift in Sources */,
+				7F1BCFDDD9F8663D5226322E /* CompanySavedDescriptionView.swift in Sources */,
+				5F0145F68BE94B1050408372 /* CandiDescriptionThreeView.swift in Sources */,
+				F4C11BE2F6BEA1A6134D8242 /* CompanyApply3View.swift in Sources */,
+				21C274713C6EAE45614A5C8B /* SavedCompanyApplyOneView.swift in Sources */,
+				8CDBB22B30A4257021452267 /* ChatCandiThreeView.swift in Sources */,
+				6CA82E1321441DDFD432DD83 /* VHackUserProfileView.swift in Sources */,
+				B290FAB9D6A7FC5362176AC2 /* FabButton.swift in Sources */,
+				4E2526A9CCCB84C43B9A6E7C /* CompanySavedDescriptionViewModel.swift in Sources */,
+				D30FA9E04BBD52DBA8B69C7A /* CompanyProfileTwoViewModel.swift in Sources */,
+				6976E5505C3317AE06BFDEFD /* VHackSavedCompaPageOneViewModel.swift in Sources */,
+				2349353E5BE873CD194C34D9 /* VHackSavedCandiPageOneViewModel.swift in Sources */,
+				6ADE2E79D817AA8C228620C8 /* SavedCandiDescriptionViewModel.swift in Sources */,
+				1D3B4E6F285D0C8B59108C23 /* ChatCandiThreeViewModel.swift in Sources */,
+				0B5E1ADBF6A9D25FCA1F53F8 /* CandiProfileThreeViewModel.swift in Sources */,
+				656D24BF28EF4756E110331E /* SavedCompanyApplyOneViewModel.swift in Sources */,
+				ABAE772D04DA72C2F2AF6956 /* CompanyProfileOneViewModel.swift in Sources */,
+				F4C664784F23A7A0C2747C15 /* CompanyDescriptionOneViewModel.swift in Sources */,
+				5645EA38111716907D5C9444 /* VHackHomeCompaPageOneViewModel.swift in Sources */,
+				CC81EDD20954EA400D7DCC0E /* CompanyApply2ViewModel.swift in Sources */,
+				50A6C4B3567CA022F50DD613 /* VideoUploadViewModel.swift in Sources */,
+				93BEA3F62AC39EE7C4ACEAAA /* CandiDescriptionThreeViewModel.swift in Sources */,
+				F97E15B813501A7A5249179B /* VHackHomeCompaPageTwoViewModel.swift in Sources */,
+				151128715925032E17933382 /* CompanyApply3ViewModel.swift in Sources */,
+				88D61F13CCF1EDA90AB09DF4 /* VHackHomeCandiPageThreeViewModel.swift in Sources */,
+				52EF31830080B4E220A342F6 /* CompanyApplyViewModel.swift in Sources */,
+				A0402372515A830183886A28 /* CompanySavedProfileOneViewModel.swift in Sources */,
+				A0488DC9AC46B80629BA77B4 /* ChatCandiOneViewModel.swift in Sources */,
+				5628C66430D2A5F054BE3187 /* CandiProfileOneViewModel.swift in Sources */,
+				50A97501EAAA63548646A687 /* CompanyDescriptionTwoViewModel.swift in Sources */,
+				06FBC9F3F90799AEFF210A0B /* CandiDescriptionOneViewModel.swift in Sources */,
+				9DD144B34BCE82568E0EB928 /* VHackHomeCandiPageOneViewModel.swift in Sources */,
+				2151C31E4B76B0FF17CE0239 /* CompanyApply1ViewModel.swift in Sources */,
+				F512AC8092C1D2E638B44F74 /* SavedCandiProfileViewModel.swift in Sources */,
+				0EFEB52F7707F9BFAD91AFB5 /* VHackUserProfileViewModel.swift in Sources */,
+				F0881369DF1BB4B89F7CAF1D /* SavedCandiChatViewModel.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		88ED74F1272FFE6F0088E3EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		88ED74F2272FFE6F0088E3EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		88ED74F4272FFE6F0088E3EF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Chengxiangwensapplication2/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Chengxiangwensapplication2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.chengxiangwensapplication.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		88ED74F5272FFE6F0088E3EF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"Chengxiangwensapplication2/Preview Content\"";
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = Chengxiangwensapplication2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.chengxiangwensapplication.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		88ED74DF272FFE6E0088E3EF /* Build configuration list for PBXProject "Chengxiangwensapplication2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88ED74F1272FFE6F0088E3EF /* Debug */,
+				88ED74F2272FFE6F0088E3EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		88ED74F3272FFE6F0088E3EF /* Build configuration list for PBXNativeTarget "Chengxiangwensapplication2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				88ED74F4272FFE6F0088E3EF /* Debug */,
+				88ED74F5272FFE6F0088E3EF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 88ED74DC272FFE6E0088E3EF /* Project object */;
+}
