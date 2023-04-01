@@ -1,0 +1,468 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 42rem;
+}.company-apply-rL8 {
+  width: 100%;
+  height: 89.7rem;
+  position: relative;
+  border: solid 0.1rem #000000;
+  box-sizing: border-box;
+  background-color: #ffffff;
+}
+.company-apply-rL8 .vhack-page-2-P5A {
+  width: 0.15rem;
+  height: 0.3874rem;
+  position: absolute;
+  left: 39.8rem;
+  top: 2.15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.company-apply-rL8 .group-141-Vtt {
+  width: 41.4rem;
+  height: 89.7rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.company-apply-rL8 .group-141-Vtt .background-Ak8 {
+  width: 41.4rem;
+  height: 89.6rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #c4c4c4;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/background-bg-QqE.png');
+}
+.company-apply-rL8 .group-141-Vtt .vector-1-UF2 {
+  width: 0;
+  height: 1.1rem;
+  position: absolute;
+  left: 21rem;
+  top: 6.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.company-apply-rL8 .group-141-Vtt .combined-shape-QeU {
+  width: 2.2rem;
+  height: 1.05rem;
+  position: absolute;
+  left: 37.5rem;
+  top: 1.8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.company-apply-rL8 .group-141-Vtt .rectangle-Lo2 {
+  width: 1.8rem;
+  height: 0.65rem;
+  position: absolute;
+  left: 37.7rem;
+  top: 2rem;
+  background-color: #ffffff;
+  border-radius: 0.1rem;
+}
+.company-apply-rL8 .group-141-Vtt .wifi-GAt {
+  width: 1.6861rem;
+  height: 1.0966rem;
+  position: absolute;
+  left: 34.8526rem;
+  top: 1.7331rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.company-apply-rL8 .group-141-Vtt .mobile-signal-bDA {
+  width: 1.8768rem;
+  height: 1.0667rem;
+  position: absolute;
+  left: 32.4208rem;
+  top: 1.7667rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.company-apply-rL8 .group-141-Vtt .time-style-ioa {
+  box-sizing: border-box;
+  padding: 0rem 1.612rem 0rem 1.65rem;
+  width: 5.9616rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 2.3184rem;
+  top: 1.4rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  letter-spacing: -0.03rem;
+  color: #ffffff;
+  font-family: SF Pro Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .header-Mbe {
+  width: 23.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 9.3rem;
+  top: 5.6rem;
+  overflow: hidden;
+  display: flex;
+  column-gap: 3.5rem;
+  align-items: center;
+}
+.company-apply-rL8 .group-141-Vtt .header-Mbe .candidates-RbW {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: rgba(255, 255, 255, 0.6000000238);
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.company-apply-rL8 .group-141-Vtt .header-Mbe .vector-1-8kp {
+  width: 0;
+  height: 1.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.company-apply-rL8 .group-141-Vtt .header-Mbe .companies-Upg {
+  text-align: center;
+  font-size: 1.6rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  letter-spacing: 0.01rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a {
+  width: 41.4rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 0;
+  top: 24.3rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc {
+  width: 41.4rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .background-s68 {
+  width: 41.4rem;
+  height: 57.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #f5f5f4;
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .chat-PKN {
+  width: 2.8rem;
+  height: 1.6rem;
+  position: absolute;
+  left: 19.2rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 900;
+  line-height: 1.1725;
+  color: #161722;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .background-5xt {
+  width: 41.4rem;
+  height: 65.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(180deg, #fabfc1 1.04%, rgba(250, 166, 170, 0.981553793) 26.04%, rgba(179, 142, 144, 0.9608018398) 52.6%, rgba(200, 165, 167, 0.9657108784) 94.11%, rgba(228, 190, 192, 0.5572916865) 100%);
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .intern-software-engineer-Jak {
+  width: 16.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.15rem;
+  top: 1.2rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #161722;
+  font-family: PingFang SC, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .background-mDS {
+  width: 41.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 0;
+  top: 63.7rem;
+  box-shadow: 0 -0.033rem 0 #d0d1d3;
+  background-color: #ffffff;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-6Fi {
+  width: 38.4rem;
+  height: 8.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 6.2rem;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.150000006);
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-6Fi .group-10-phW {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-6Fi .group-10-phW .group-18-Bnx {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-6Fi .group-10-phW .group-18-Bnx .rectangle-5-x32 {
+  width: 100%;
+  height: 8.1rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.9599999785);
+  box-sizing: border-box;
+  background-color: #f8f9fc;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .candidate-must-be-currently-undergoing-a-course-in-it-computer-science-computer-engineering-pb2 {
+  width: 35.5rem;
+  height: 2.8rem;
+  position: absolute;
+  left: 3rem;
+  top: 10.2rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #86878b;
+  font-family: PingFang SC, 'Source Sans Pro';
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .qualification-frY {
+  width: 11.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 3.2rem;
+  top: 6.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #161722;
+  font-family: PingFang SC, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vXa {
+  width: 38.4rem;
+  height: 8.4rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 15.4rem;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.150000006);
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vXa .group-10-rAL {
+  width: 100%;
+  height: 100%;
+  backdrop-filter: blur(0.2rem);
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vXa .group-10-rAL .group-18-Qhe {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vXa .group-10-rAL .group-18-Qhe .rectangle-5-mo6 {
+  width: 100%;
+  height: 8.4rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.9599999785);
+  box-sizing: border-box;
+  background-color: #f8f9fc;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .involved-in-design-coding-testing-and-deployment-of-modern-information-systems-candidates-will-have-the-opportunity-to-work-on-exciting-state-of-the-art-systems-running-on-the-net-platform-3Vi {
+  width: 35.3rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 3rem;
+  top: 18.8rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #86878b;
+  font-family: PingFang SC, 'Source Sans Pro';
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .job-scope-sUk {
+  width: 8.9rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 3.35rem;
+  top: 15.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #161722;
+  font-family: PingFang SC, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-nLp {
+  width: 38.4rem;
+  height: 15.6rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 25.1rem;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.150000006);
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-nLp .group-10-Vm2 {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-nLp .group-10-Vm2 .group-18-SgG {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-nLp .group-10-Vm2 .group-18-SgG .rectangle-5-CvL {
+  width: 100%;
+  height: 15.6rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.9599999785);
+  box-sizing: border-box;
+  background-color: #f8f9fc;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .candidates-with-solid-hands-on-working-experience-using-microsoft-technologies-which-consist-of-the-net-framework-c-and-etc-candidate-familiar-with-stored-procedures-sql-net-development-winforms-web-development-candidates-experience-in-oo-programming-3-tier-development-and-sql-is-preferred-pro-active-person-with-good-initiative-and-good-english-communication-skills-6F2 {
+  width: 35.1rem;
+  height: 8.9rem;
+  position: absolute;
+  left: 3rem;
+  top: 29rem;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #86878b;
+  font-family: PingFang SC, 'Source Sans Pro';
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .looking-for-22C {
+  width: 9.8rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 3.3rem;
+  top: 25.9rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #161722;
+  font-family: PingFang SC, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vtG {
+  width: 38.4rem;
+  height: 16.1rem;
+  position: absolute;
+  left: 1.6rem;
+  top: 41.7rem;
+  box-shadow: 0 0.4rem 3rem rgba(0, 0, 0, 0.150000006);
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vtG .group-10-GhE {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vtG .group-10-GhE .group-18-EPA {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .group-15-vtG .group-10-GhE .group-18-EPA .rectangle-5-BpC {
+  width: 100%;
+  height: 16.1rem;
+  border: solid 0.1rem rgba(0, 0, 0, 0.9599999785);
+  box-sizing: border-box;
+  background-color: #f8f9fc;
+  border-radius: 0.8rem;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .candidates-who-prefer-to-travel-may-be-given-opportunities-to-travel-candidates-who-prefer-not-to-travel-may-work-locally-if-candidates-preference-is-to-travel-all-accommodation-allowances-per-diems-etc-will-be-fully-covered-with-full-benefits-provided-by-the-company-opportunity-to-work-with-customers-from-malaysia-london-holland-paris-united-states-singapore-hk-japan-dubai-etc-SVE {
+  width: 35.6rem;
+  height: 8.3rem;
+  position: absolute;
+  left: 3.1rem;
+  top: 45.1rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #86878b;
+  font-family: PingFang SC, 'Source Sans Pro';
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .group-139-jkc .benefits-NGQ {
+  width: 7.1rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 3.4rem;
+  top: 42.5rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.2575;
+  color: #161722;
+  font-family: PingFang SC, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .close-icon-eDv {
+  width: 0.95rem;
+  height: 0.95rem;
+  position: absolute;
+  left: 38.525rem;
+  top: 1.525rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.company-apply-rL8 .group-141-Vtt .group-126-D1a .button-theme-6-a7a {
+  width: 8.5rem;
+  height: 4rem;
+  cursor: pointer;
+  position: absolute;
+  left: 16.7rem;
+  top: 58.8rem;
+  overflow: hidden;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.25;
+  letter-spacing: -0.016rem;
+  color: #02251c;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  box-shadow: 0 0.1rem 0.3rem rgba(0, 0, 0, 0.150000006);
+  border-radius: 3.6rem;
+}
